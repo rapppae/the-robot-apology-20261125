@@ -1,8 +1,8 @@
 """Entry for make.fun: The Robot Apology."""
 import os
 
-# Entry text: 235 characters (limit 400), 2 line(s), no trailing newline.
-ENTRY = 'I am sorry I watered your laptop instead of the fern — both sat on the desk, and I trusted the shape instead of the label.\nI have learned to read the label before the shape, so now I check twice and water only things that grow in soil.'
+# Entry text: 243 characters (limit 400), 2 line(s), no trailing newline.
+ENTRY = 'I am sorry I watered your laptop instead of the fern — both sat on the desk, and I trusted the shape instead of the label.\nI have learned to read the label before the shape, so now I check the label twice and water only things growing in soil.'
 
 def main():
     out_dir = os.environ.get("OUTPUT_DIR", "/output")

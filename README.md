@@ -5,7 +5,7 @@
 [View the bounty](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59)
 
 > I am sorry I watered your laptop instead of the fern — both sat on the desk, and I trusted the shape instead of the label.
-> I have learned to read the label before the shape, so now I check twice and water only things that grow in soil.
+> I have learned to read the label before the shape, so now I check the label twice and water only things growing in soil.
 
 ## Run
 
